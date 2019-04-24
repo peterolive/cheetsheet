@@ -1,0 +1,10 @@
+id	name	salary
+@1	Jon _Jon_Jon	35000
+2	Runtao	21000
+
+
+3	Gil	23000
+4	John	25000
+5	Mike	40000
+6	mike	36000
+7	Johnny	40000
